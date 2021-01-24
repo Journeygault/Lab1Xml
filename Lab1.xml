@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE SemesterSchedule SYSTEM "lab1.dtd">
+<SemesterSchedule>
+    <class>
+        <courseCode>HTTP 5201</courseCode>
+        <courseName>Security and Quality Assurance</courseName>
+        <teacherName>
+            <teacherFname>Sean</teacherFname>
+            <teacherLname>Doyle</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Wednesday</dayOfTheWeek>
+            <startTime>14:25</startTime>
+            <endTime>15:15</endTime>
+        </classSchedule>
+        <lab>
+            <dayOfTheWeek>Friday</dayOfTheWeek>
+            <startTime>8:55</startTime>
+            <endTime>10:40</endTime>
+        </lab>
+    </class>
+
+    <class>
+        <courseCode>HTTP 5202</courseCode>
+        <courseName>Web Application Development 2</courseName>
+        <teacherName>
+            <teacherFname>Nithya</teacherFname>
+            <teacherLname>Thayananthan</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Wednesday</dayOfTheWeek>
+            <startTime>9:50</startTime>
+            <endTime>11:35</endTime>
+        </classSchedule>
+        <lab>
+            <dayOfTheWeek>TBD</dayOfTheWeek>
+            <startTime>TBD</startTime>
+            <endTime>TBD</endTime>
+        </lab>
+    </class>
+
+    <class>
+        <courseCode>HTTP 5203</courseCode>
+        <courseName>XML and Web Services</courseName>
+        <teacherName>
+            <teacherFname>Joanna</teacherFname>
+            <teacherLname>Kommala</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Thursday</dayOfTheWeek>
+            <startTime>11:40</startTime>
+            <endTime>12:30</endTime>
+        </classSchedule>
+    </class>
+    <class>
+        <courseCode>HTTP 5204</courseCode>
+        <courseName>Mobile Development</courseName>
+        <teacherName>
+            <teacherFname>Christine</teacherFname>
+            <teacherLname>Bittle</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Thursday</dayOfTheWeek>
+            <startTime>14:25</startTime>
+            <endTime>15:25</endTime>
+        </classSchedule>
+        <lab>
+            <dayOfTheWeek>Thursday</dayOfTheWeek>
+            <startTime>14:25</startTime>
+            <endTime>16:10</endTime>
+        </lab>
+    </class>
+
+    <class>
+        <courseCode>HTTP 5205</courseCode>
+        <courseName>Professional Practice</courseName>
+        <teacherName>
+            <teacherFname>Christie</teacherFname>
+            <teacherLname>Knapp</teacherLname>
+        </teacherName>
+        <teacherName>
+            <teacherFname>Nithya</teacherFname>
+            <teacherLname>Thayananthan</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Online</dayOfTheWeek>
+        </classSchedule>
+    </class>
+
+    <class>
+        <courseCode>HTTP 5206</courseCode>
+        <courseName>Web Information Architecture</courseName>
+        <teacherName>
+            <teacherFname>Bernard</teacherFname>
+            <teacherLname>Monette</teacherLname>
+        </teacherName>
+        <classSchedule>
+            <dayOfTheWeek>Tuesday</dayOfTheWeek>
+            <startTime>9:50</startTime>
+            <endTime>11:35</endTime>
+        </classSchedule>
+    </class>
+</SemesterSchedule>
+<!-- My partener for discussing this assignement was Asia Gault -->
